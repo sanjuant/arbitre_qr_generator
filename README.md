@@ -21,7 +21,7 @@ Application PyQt5 pour la génération de QR codes sécurisés destinés aux arb
 ### 1. Cloner ou télécharger le projet
 
 ```bash
-git clone <votre-repo>
+git clone https://github.com/sanjuant/arbitre_qr_generator.git
 cd arbitre-qr-generator
 ```
 
